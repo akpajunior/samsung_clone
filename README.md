@@ -1,1 +1,2 @@
-# samsung_clone
+my second project
+
